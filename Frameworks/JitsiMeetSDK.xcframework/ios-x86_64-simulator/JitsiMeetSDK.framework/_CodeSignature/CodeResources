@@ -462,6 +462,10 @@
 		<data>
 		vDLJVTKYDrduPRKle4QHleywrhY=
 		</data>
+		<key>assets/images/cuemeLogo.jpeg</key>
+		<data>
+		qQ2CMtT8fdvvXNidBsQgwquUB/k=
+		</data>
 		<key>assets/images/dropboxLogo_square.png</key>
 		<data>
 		963TSklylFlSHuQZSvBcFw8eDEg=
@@ -900,7 +904,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		6xNHWC0jqsgFpUkPthNMGm2aOi4=
+		c8LpPJPfVL6iRThE8H2RIibZXOo=
 		</data>
 		<key>noAudioSignal.mp3</key>
 		<data>
@@ -1509,6 +1513,13 @@
 			<key>hash2</key>
 			<data>
 			3Q+a7AKeU9OvJLLc3xnL+8q0ax8aZxHGFivTsZL/y0I=
+			</data>
+		</dict>
+		<key>assets/images/cuemeLogo.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4W3+QoV6K3SORk8IkjKVejy9zrF9DU1bOZqX/JrDumY=
 			</data>
 		</dict>
 		<key>assets/images/dropboxLogo_square.png</key>
@@ -2278,7 +2289,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jn5UKhHhRMu4ITQORarRZw6W37ggdcUkyhqviDU/bV4=
+			uxe5QvUPQafE25DsvIE9btg0mIiyBAXjmmGqx3XuevU=
 			</data>
 		</dict>
 		<key>noAudioSignal.mp3</key>
