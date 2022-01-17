@@ -400,7 +400,7 @@
 		</data>
 		<key>Headers/JitsiMeetSDK-Swift.h</key>
 		<data>
-		To7XdZCO6KedJ6HuBuz3XiPuNHM=
+		uXaB/eOqbsIthyE/EVhTPTcifF4=
 		</data>
 		<key>Headers/JitsiMeetSDK.h</key>
 		<data>
@@ -424,27 +424,27 @@
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Y+CM9aMIj9wqQtk7DrzCYNv0G5I=
+		vlFLaU1VW7EqImhEQ0m+F4wfxmA=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		rGO//qZGUoGOItwLUg53sjQu2NQ=
+		+nvCAqeMJOPgBuYHuoz4F6SrFXo=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VVofELPFa4h/himgmEbfaOC6kz0=
+		/VMwIOwNr+jNMh2lMYs49gDbJ40=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		Y+CM9aMIj9wqQtk7DrzCYNv0G5I=
+		vlFLaU1VW7EqImhEQ0m+F4wfxmA=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		rGO//qZGUoGOItwLUg53sjQu2NQ=
+		+nvCAqeMJOPgBuYHuoz4F6SrFXo=
 		</data>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		VVofELPFa4h/himgmEbfaOC6kz0=
+		/VMwIOwNr+jNMh2lMYs49gDbJ40=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1414,7 +1414,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UFafcGYB0ezkLQEB6k9jIzA6LBxQccGMHqybjOoWK1w=
+			iqdShViyAVtyqVk6fE1wzmMzlhC1Gx8IFjmfP3prBX8=
 			</data>
 		</dict>
 		<key>Headers/JitsiMeetSDK.h</key>
@@ -1449,42 +1449,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qooq/HxbXhAuso9BU4LQ28DUbvlnT84vyhkKltf0c1E=
+			hZRz1ErOY7pshtwfJwnkm/2UknOt6/twRHiSyO1T4N8=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UAvDzshV9GqCxL0OfyqBezV8G/jL6U0xQPjpnEXwWtE=
+			pDgOQZYt7xRFGXwTsNSop/hS9meRFtw1nXqo0KGlflQ=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TVbV+FVXd+9T7BCryceyEbTPfbWBH0MmkmySnR8YLC0=
+			gvm4NVh21i/DaUbSyUkrxppWJhIMPjQCUlCywWUsZf4=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qooq/HxbXhAuso9BU4LQ28DUbvlnT84vyhkKltf0c1E=
+			hZRz1ErOY7pshtwfJwnkm/2UknOt6/twRHiSyO1T4N8=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UAvDzshV9GqCxL0OfyqBezV8G/jL6U0xQPjpnEXwWtE=
+			pDgOQZYt7xRFGXwTsNSop/hS9meRFtw1nXqo0KGlflQ=
 			</data>
 		</dict>
 		<key>Modules/JitsiMeetSDK.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TVbV+FVXd+9T7BCryceyEbTPfbWBH0MmkmySnR8YLC0=
+			gvm4NVh21i/DaUbSyUkrxppWJhIMPjQCUlCywWUsZf4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
