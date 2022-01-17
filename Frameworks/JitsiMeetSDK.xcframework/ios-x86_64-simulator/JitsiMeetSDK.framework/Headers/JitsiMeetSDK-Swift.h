@@ -254,6 +254,20 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class) BOOL enabled;)
 + (void)request:(CXTransaction * _Nonnull)transaction completion:(void (^ _Nonnull)(NSError * _Nullable))completion;
 @end
 
+
+/// Coordinates the view state of a specified view to allow
+/// to be presented in full screen or in a custom Picture in Picture mode.
+/// This object will also provide the drag and tap interactions of the view
+/// when is presented in Picure in Picture mode.
+SWIFT_CLASS("_TtC12JitsiMeetSDK18PiPViewCoordinator")
+@interface PiPViewCoordinator : NSObject
+/// Exit Picture in picture mode, this will resize view, remove
+/// exit pip button, and disable the drag gesture
+- (void)exitPictureInPicture;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
 #endif
